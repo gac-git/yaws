@@ -6,10 +6,10 @@ _**Y**et **A**nother **W**allpaper**S**_
 
 ## Quick Start:
 
-- [Download as zip](github.com/gac-git/ways/archive/refs/heads/main.zip)
-
-- `git clone https://www.github.com/gac-git/yaws.git`
-
+```
+git clone https://www.github.com/gac-git/yaws.git
+```
+- <a href="https://github.com/gac-git/yaws/archive/refs/heads/main.zip">Download as Zip</a>
 - Or go in diretory and download individual wallpapers.
 
 ## Preview
