@@ -6,7 +6,7 @@ _**Y**et **A**nother **W**allpaper**S**_
 
 ## Quick Start:
 
-- [Download as zip](www.github.com/gac-git/ways/archive/refs/heads/main.zip)
+- [Download as zip](github.com/gac-git/ways/archive/refs/heads/main.zip)
 
 - `git clone https://www.github.com/gac-git/yaws.git`
 
